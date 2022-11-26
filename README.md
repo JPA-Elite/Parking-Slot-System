@@ -1,3 +1,7 @@
+# Members:
+# Joshua Algadipe
+# Janrae Fagaragan
+
 # Parking System
 
 00 Parking Lot
